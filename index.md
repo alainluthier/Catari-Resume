@@ -74,6 +74,6 @@ __Power BI, Pentaho and Tableau__, Business Analysis
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2022 -->
 
 
