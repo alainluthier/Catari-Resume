@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Alain Catari CV
+title: Alain Ramos Catari CV
 ---
-# Alain Catari
+# Alain Ramos Catari
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
