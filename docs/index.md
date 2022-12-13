@@ -1,89 +1,79 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Alain Ramos Catari CV
 ---
-# Brigham Young
+# Alain Ramos Catari
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="alainluthier@byui.edu">alainluthier@byui.edu</a> | 
+<a href="https://github.com/alainluthier">Github</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Status: In Progress
+- Emphasis: Web Development.
+- Relevant Courses: Web Development, Database Administration, Security, Web Front-End Development, Networking.
+- Certificates: Database Administration (2021)
 
 
 ## Related Experience
 
-### Internships
+### Full-Time Professional Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - Present`
+__National Customs of Bolivia__, Information management Technician
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Generation of ETL processes for updating the Data Warehouse.
+- Data analysis using Python to identify risk factors.
+- Data warehouse maintenance for a data repository.
+- Generation of management reports for decision-making.
 
-### Data Science Lead
+`December 2019 - March 2021`
+__National Customs of Bolivia__, Information Security Technician
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Scanning, analysis and detection of vulnerabilities in systems and web applications.
+- Preparation and implementation of procedure manuals under the ISO 9001 and ISO 27001 standards 
+- Preparation of an Institutional Information Security Plan, Security Policies and definition of information security controls
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`October 2018 - November 2019`
+__National Customs of Bolivia__, Exploit Information Technician
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Generation of reports by analyzing data using scripts in MS-SQL Server, Oracle, PostgreSQL and MongoDB databases.
+- Implementation of a server with Pentaho Business Intelligence in order to automate the generation of managerial reports.
+- Execution of script for the correction of records in databases after analysis of data consistency.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`June 2017 - September 2018`
+__Military Language School__, Web Developer
 
-### Data Science Consulting Team
+- Development of a web application for the registration of qualifications using the Angular Frameworks, Java Spring Boot, JPA, Hibernate and PostgreSQL database.
+- Generation of user manuals and system development documentation such as: diagrams and data dictionaries.
+- Implementation of an e-learning platform with Moodle on a server hosted in the cloud, automatic generation of backups and security settings on the debian 11 server.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Service and Volunteer
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`2015-2017`
+__Service Missionary__, Guayaquil Ecuador West
+- Training given to 3 new members of the program for a period of 3 months.
+- Leadership in training for 9 volunteers, analysis of strengths, weaknesses, practices and supervision of the assigned group.
+- Teamwork with groups of approximately 18 volunteers in order to identify strengths, weaknesses, compliance and monitoring of daily, weekly and monthly goals.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+## Key Skills
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+__Python__, Data Analysis 
+__Advance Excel__
+__Advance SQL__, PostgreSQL, MongoDB, Oracle & MySQL
+__Power BI, Pentaho and Tableau__, Business Analysis
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2022 -->
 
 
